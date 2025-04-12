@@ -23,7 +23,7 @@ Healthify is a comprehensive healthcare management web application built using *
 
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, Bootstrap 5.3.5, JavaScript
-- **Database**: SQLite3 (or configurable)
+- **Database**: MySQL (or configurable)
 - **AJAX**: For smooth, dynamic form interactions
 - **Email Service**: Django's Email backend for notifications
 
@@ -47,5 +47,5 @@ Healthify is a comprehensive healthcare management web application built using *
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/healthify.git
+   git clone https://github.com/paras-x11/healthify.git
    cd healthify
