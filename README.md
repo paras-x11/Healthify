@@ -1,10 +1,9 @@
 # Healthify 🏥
 
 # Preview:
-`https://parasrana11.pythonanywhere.com`
+https://parasrana11.pythonanywhere.com
 
 Healthify is a comprehensive healthcare management web application built using **Django**. It provides a seamless platform for doctors and patients to connect, manage appointments, and access healthcare services with ease.
-
 
 ---
 
@@ -57,3 +56,4 @@ Now the live demo link to **Healthify** has been included under **Live Demo** wi
    ```bash
    git clone https://github.com/paras-x11/healthify.git
    cd healthify
+   ```
