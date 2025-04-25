@@ -1,6 +1,10 @@
 # Healthify 🏥
 
+# Preview:
+`https://parasrana11.pythonanywhere.com`
+
 Healthify is a comprehensive healthcare management web application built using **Django**. It provides a seamless platform for doctors and patients to connect, manage appointments, and access healthcare services with ease.
+
 
 ---
 
@@ -26,6 +30,10 @@ Healthify is a comprehensive healthcare management web application built using *
 - **Database**: MySQL (or configurable)
 - **AJAX**: For smooth, dynamic form interactions
 - **Email Service**: Django's Email backend for notifications
+
+---
+
+Now the live demo link to **Healthify** has been included under **Live Demo** with the link `https://parasrana11.pythonanywhere.com`. This will allow users to easily access the demo. Let me know if you'd like anything else adjusted!
 
 ---
 
