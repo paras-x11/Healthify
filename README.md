@@ -1,6 +1,6 @@
 # Healthify 🏥
 
-# Preview:
+## Preview:
 https://parasrana11.pythonanywhere.com
 
 Healthify is a comprehensive healthcare management web application built using **Django**. It provides a seamless platform for doctors and patients to connect, manage appointments, and access healthcare services with ease.
